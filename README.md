@@ -18,7 +18,7 @@ The main goal is to identify meaningful customer groups and provide actionable i
 * Provide business recommendations based on identified segments.
 
 ## Dataset Description
-* Source: UCI Wholesale Customers Dataset ([https://archive.ics.uci.edu/ml/datasets/wholesale+customers](https://archive.ics.uci.edu/ml/datasets/wholesale+customers))
+* File used: UCI Wholesale Customers.csv (stored locally)
 * Features included: Fresh, Milk, Grocery, Frozen, Detergents_Paper, Delicassen, Channel, and Region.
 
 ## Workflow Summary
@@ -87,3 +87,4 @@ Overall, this analysis provides a data-driven foundation for targeted business s
 * Automate parameter tuning for DBSCAN.
 * Integrate customer demographic data for more detailed segmentation.
 his project?
+
